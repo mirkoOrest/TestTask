@@ -1,0 +1,1 @@
+{"version":3,"file":"tableNames.enum.js","sourceRoot":"","sources":["../../src/constants/tableNames.enum.ts"],"names":[],"mappings":";;;AAAA,IAAY,cAEX;AAFD,WAAY,cAAc;IACxB,kCAAgB,CAAA;AAClB,CAAC,EAFW,cAAc,GAAd,sBAAc,KAAd,sBAAc,QAEzB","sourcesContent":["export enum TableNamesEnum {\r\n  MOVIE = 'movies'\r\n}\r\n"]}

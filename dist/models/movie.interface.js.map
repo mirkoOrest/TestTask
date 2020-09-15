@@ -1,0 +1,1 @@
+{"version":3,"file":"movie.interface.js","sourceRoot":"","sources":["../../src/models/movie.interface.ts"],"names":[],"mappings":"","sourcesContent":["export interface IMovie {\r\n  _id: string;\r\n  name: string;\r\n  genre1: string;\r\n  genre2: string;\r\n  year: number;\r\n}\r\n"]}
